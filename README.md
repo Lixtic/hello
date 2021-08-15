@@ -3,10 +3,10 @@
   using namespace std;
   
   int main(){
-  sring name;
+  string name;
   cout<< "Enter username";
   cin>> name;
-  cout << "welcome"<< name<<endl;
+  cout << "welcome "<< name<<endl;
   
   return 0;
   
